@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/sdl2-populate"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/21be487aa1e135689c2a7a3f0de52ea4/sdl2-populate.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/83e031f34a70d01889765adaf6fac58b/sdl2-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sdl2-populate"
+		],
+		"name" : "sdl2-populate"
+	}
+}

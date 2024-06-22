@@ -1,0 +1,14 @@
+# Target labels
+ sdl2-populate
+# Source files and their labels
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/sdl2-populate
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/21be487aa1e135689c2a7a3f0de52ea4/sdl2-populate.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/83e031f34a70d01889765adaf6fac58b/sdl2-populate-complete.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-build.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-configure.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-download.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-install.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-mkdir.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-patch.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-test.rule
+C:/Users/adamj/Desktop/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7012197dc25feb7e3619f2caf31aa034/sdl2-populate-update.rule
